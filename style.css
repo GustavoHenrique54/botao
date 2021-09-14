@@ -1,0 +1,43 @@
+.btn-padrão{ 
+    background-color: rgb(240, 240, 240); 
+    color: rgb(24, 24, 24);
+    text-decoration: none;
+    padding: 14px;
+    font-size: medium;
+    padding-left: 42px;
+    padding-right: 42px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    border-radius: 3px;
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.144);
+    margin: 50px;
+}
+
+.btn-padrão:hover{
+    color: white;
+    background-color: rgb(110, 110, 110); 
+}
+
+.btn-rosa{
+    color: white;
+    background-color: rgb(255, 51, 153); 
+}
+
+.btn-rosa:hover{ 
+    background-color: rgb(252, 193, 222); 
+    color: rgb(255, 74, 162);
+}
+
+.btn-azul{
+    color: white;
+    background-color: rgb(51, 146, 255);
+}
+
+.btn-azul:hover{
+    background-color: rgb(193, 212, 252); 
+    color: rgb(74, 146, 255);
+}
+
+h1{
+color: cornflowerblue;
+}
