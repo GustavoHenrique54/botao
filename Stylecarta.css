@@ -1,0 +1,17 @@
+.txt{
+    font-family:'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+.par{
+    text-align: justify;
+    font-size: medium;
+}
+
+.data{
+    text-align: center;
+}
+
+.sig{
+    font-family: cursive;
+}
